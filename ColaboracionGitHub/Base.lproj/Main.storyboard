@@ -41,10 +41,10 @@
             </objects>
             <point key="canvasLocation" x="139" y="131"/>
         </scene>
-        <!--View Controller-->
+        <!--Login View Controller-->
         <scene sceneID="FFb-0Z-spM">
             <objects>
-                <viewController id="Hxh-6w-Oql" sceneMemberID="viewController">
+                <viewController id="Hxh-6w-Oql" customClass="LoginViewController" customModule="ColaboracionGitHub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="xr8-Dt-cU6">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="793"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
